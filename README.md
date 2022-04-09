@@ -32,6 +32,25 @@ In this visualization, graph the number of bike trips by gender for each hour of
 
 
 - Users Trips by Gender by Weekday
-- 
+
 ![2022-04-06 (5)](https://user-images.githubusercontent.com/96403349/162099550-1b2a04e4-f121-4e8a-9238-a2868b18d302.png)
+
+- Top Starting Loctions
+
+![2022-04-09](https://user-images.githubusercontent.com/96403349/162577421-e135b5f1-8f3c-40ac-920c-af12d6580abe.png)
+
+In this visualization, created the symbol map to measures the geographic location of the bike rental starting points. The box with the legend represent the dots, the smaller dot represent count of lower loction point and big dot represent the higher laoction of starting point. 
+
+- Top Ending Loctions
+
+![2022-04-09 (1)](https://user-images.githubusercontent.com/96403349/162576924-66201048-272f-485f-ad6c-1757d9fa9bbc.png)
+
+In this visualization, created the symbol map to measures the geographic location of the bike rental ending points. The box with the legend represent the dots, the smaller dot represent count of lower loction point and big dot represent the higher laoction of ending points where people drop of the bikes.
+
+## Summary:
+
+From the analysis, the males were a major consumer of the bike sharing service rather than females. Also the service was a popular hit for workers as the usage correlated with the opening and closing hours of the work. With the symbol map, it was easier to know that the starting and ending loctions of customers using bikes. It will be helpful for anyone who wants to open bussiness of bike services in NYC. 
+
+This [NYC bikesharing Dashboard](https://public.tableau.com/app/profile/arrosa.qayyum/viz/NYCbikesharing_16495117444860/Story1) shows the visualization for the bike sharing service.
+
 
